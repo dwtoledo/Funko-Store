@@ -1,13 +1,13 @@
 document.addEventListener('DOMContentLoaded', function () {
-    var element = document.getElementById('news__scrollbar--next');
-    element.onclick = function () {
+
+    var next = document.getElementById('news__scrollbar--next');
+    next.onclick = function () {
         document.getElementById('news__products--scroll').scrollLeft += 200;
     };
-}, false);
 
-document.addEventListener('DOMContentLoaded', function () {
-    var element = document.getElementById('news__scrollbar--back');
-    element.onclick = function () {
+    var back = document.getElementById('news__scrollbar--back');
+    back.onclick = function () {
         document.getElementById('news__products--scroll').scrollLeft -= 200;
     };
+    
 }, false);
