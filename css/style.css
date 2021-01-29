@@ -504,34 +504,34 @@ main {
 }
 
 
-.petstore__social {
+.funkostore__social {
     display: flex;
     justify-content: space-around;
     margin: 20px auto;
     width: 60%;
 }
 
-.petstore__social img {
+.funkostore__social img {
     height: 30px;
     width: 30px;
 }
 
-.petstore__social--icons {
+.funkostore__social--icons {
     position: relative;
 }
 
-.petstore__social--icons > a {
+.funkostore__social--icons > a {
     left: 0;
     position: absolute;
     top: 0;
     visibility: hidden;
 }
 
-.petstore__social--icons:hover img:last-child {
+.funkostore__social--icons:hover img:last-child {
     visibility: visible;
 }
 
-.info__container--petstore > p {
+.info__container--funkostore > p {
     text-align: center;
 }
 
@@ -599,7 +599,7 @@ main {
     margin-right: 20px;
 }
 
-.logo-serie {
+.logo-funko {
     height: 40px;
     width: auto;
 }
