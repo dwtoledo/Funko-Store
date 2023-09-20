@@ -19,4 +19,4 @@ Welcome to the Funko Store project! This is a static website built with HTML and
 - Contact form for inquiries and feedback.
 
 ## Demo
-You can check out the live demo of the Funko Creative Store [here](https://dwtoledo.github.io/portfolio/projects/ecommerce/index.html).
+You can check out the live demo of the Funko Store [here](https://dwtoledo.github.io/portfolio/projects/ecommerce/index.html).
